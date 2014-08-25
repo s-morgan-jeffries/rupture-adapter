@@ -1,0 +1,19 @@
+{
+  "name": "rupture-adapter",
+  "version": "0.0.0",
+  "homepage": "https://github.com/s-morgan-jeffries/rupture-adapter",
+  "authors": [
+    "Morgan <s.morgan.jeffries@gmail.com>"
+  ],
+  "description": "Rupture library for Stylus with proper namespacing",
+  "main": "index.styl",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

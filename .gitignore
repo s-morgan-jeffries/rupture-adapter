@@ -1,0 +1,5 @@
+node_modules
+.tmp
+.test_env
+.idea
+.DS_Store
