@@ -1,0 +1,19 @@
+{
+  "name": "rupture-adapter",
+  "version": "0.0.0",
+  "description": "Rupture library for Stylus with proper namespacing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/s-morgan-jeffries/rupture-adapter.git"
+  },
+  "author": "S Morgan Jeffries",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/s-morgan-jeffries/rupture-adapter/issues"
+  },
+  "homepage": "https://github.com/s-morgan-jeffries/rupture-adapter"
+}
